@@ -1,0 +1,109 @@
+body, html{
+	background-color: black;
+}
+
+#painting {
+    bbackground-color: #fff4db;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#toprow {
+    height: 72.5%;
+    width: 100%;
+}
+
+#bigRed {
+	height: 100%;
+	width: 72.5%;
+}
+
+#divider1 {
+    height: 100%;
+    width: 2.5%;
+}
+
+#topleftColumn {
+	height: 100%;
+	width: 25%;
+}
+#divider2 {
+	height: 2.5%;
+	width: 100%;
+}
+
+#mediumTop {
+	
+	width: 100%;
+}
+
+#mediumBot {
+	
+	width: 100%;
+}
+#bottemRow {
+	height: 25%;
+	width: 100%;
+}
+#middleDivider {
+	height: 2.5%;
+	width: 100%;
+}
+#bigBlue {
+	height: 100%;
+	width: 25%;
+}
+#bottomLDiv {
+	height: 100%;
+	width: 2.5%;
+}
+#midBotBox {
+	height: 100%;
+	width: 65%;
+}
+#bottemRDiv {
+	height: 100%;
+	width: 2.5%;
+}
+#smallDiv {
+	height: 2.5%;
+	width: 100%;
+}
+#botRCol {
+	height: 100%;
+	width: 5%;
+}
+
+#smallTop {
+	height: 45% ;
+	width: 100%;
+}
+
+#smallBot {
+	height: 45% ;
+	width: 100%;
+}
+
+
+.red {
+    background-color: red;   
+}
+
+.blue {
+    background-color: blue; 
+}
+.yellow {
+    background-color: yellow;   
+}
+.black {
+    background-color: black;   
+}
+.white {
+	background-color: white;
+}
+.right {
+    float: right;
+}
+.left {
+	float: left;
+}
